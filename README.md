@@ -1,5 +1,10 @@
 # RunningDiary
 
+
+[![solarized dualmode](https://github.com/amrayoub/Running-Diary-Angular-4/blob/master/img/1.png)](#features)
+
+[![solarized dualmode](https://github.com/amrayoub/Running-Diary-Angular-4/blob/master/img/2.png)](#featur
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
 ## Development server
