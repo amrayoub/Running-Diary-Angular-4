@@ -1,5 +1,7 @@
 # RunningDiary
 
+simple GPS route mapping application using Angular 4
+
 
 [![solarized dualmode](https://github.com/amrayoub/Running-Diary-Angular-4/blob/master/img/1.png)](#features)
 
