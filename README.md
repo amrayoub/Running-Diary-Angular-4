@@ -3,7 +3,7 @@
 
 [![solarized dualmode](https://github.com/amrayoub/Running-Diary-Angular-4/blob/master/img/1.png)](#features)
 
-[![solarized dualmode](https://github.com/amrayoub/Running-Diary-Angular-4/blob/master/img/2.png)](#featur
+[![solarized dualmode](https://github.com/amrayoub/Running-Diary-Angular-4/blob/master/img/2.png)](#features)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
